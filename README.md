@@ -4,7 +4,7 @@ An AI-powered web application that analyzes WhatsApp Play Store reviews and pred
 
 🌐 Live Demo
 
-👉 https://whatsapp-sentiment-analyzer.onrender.com/
+👉https://huggingface.co/spaces/aarzoodahiya81/Whatsapp_sentiment-analysis
 
 📌 Project Overview
 

@@ -17,7 +17,7 @@ It converts raw text into numerical features using TF-IDF and applies a Logistic
 * **Machine Learning:** Scikit-learn (Logistic Regression)
 * **NLP:** TF-IDF Vectorization, Stopword Removal
 * **Frontend:** HTML, CSS, JavaScript
-* **Deployment:** Render (Cloud Platform)
+* **Deployment:** Hugging Face
 
 ✨ Features
 
@@ -79,18 +79,6 @@ python app.py
 * Sentiment tracking for businesses
 * Social media analytics
 
-🔥 Future Improvements
 
-* 🔹 Add Deep Learning models (LSTM / BERT)
-* 🔹 Improve accuracy to 85%+
-* 🔹 Multi-language support
-* 🔹 Mobile app integration
 
-👨‍💻 Author
-**Aarjoo Dahiya**
-B.Tech Third Year Student 
-
-⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
 
